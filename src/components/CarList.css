@@ -1,0 +1,16 @@
+/* src/components/CarList.css */
+
+h2 {
+    color: #007bff;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
